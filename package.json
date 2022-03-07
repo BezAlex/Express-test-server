@@ -1,0 +1,22 @@
+{
+  "name": "express-test-server",
+  "version": "1.0.0",
+  "description": "Test server based on express framwork",
+  "main": "index.js",
+  "scripts": {
+    "server" : "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIVern/Express-test-server.git"
+  },
+  "author": "Denis Fedioukovitch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VIVern/Express-test-server/issues"
+  },
+  "homepage": "https://github.com/VIVern/Express-test-server#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
