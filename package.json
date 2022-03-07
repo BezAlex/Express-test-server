@@ -4,7 +4,7 @@
   "description": "Test server based on express framwork",
   "main": "index.js",
   "scripts": {
-    "server" : "node server/index.js"
+    "start" : "node index.js"
   },
   "repository": {
     "type": "git",
